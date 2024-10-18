@@ -1,0 +1,13 @@
+.lw {text-align: center;}
+.lw {font-size: 30px;}
+.lw {font-family: 'Franklin Gothic Medium'}
+.lw {font-style: oblique;}
+.lw {color: brown;}
+hr {width: 80mm;}
+hr {color: brown;}
+
+article p:first-child {
+    font-size: 80%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+} 
